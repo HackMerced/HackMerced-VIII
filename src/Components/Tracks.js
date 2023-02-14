@@ -2,7 +2,7 @@ import { Card } from "@mui/material";
 import Support from '../Assets/support_1.svg'
 function Tracks() {
     return (
-      <div className="Tracks">
+      <div className="Tracks" id="tracks">
            <h1 style={{marginTop: '0px'}}>Tracks</h1>
            <div className="Tracks-Flex">
             <Card style={{borderRadius: '30px'}} className='Track-Card'>
