@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HackMerced-VIII/static/css/main.6af3062c.css",
+    "main.css": "/HackMerced-VIII/static/css/main.7e7809ae.css",
     "main.js": "/HackMerced-VIII/static/js/main.596b724f.js",
     "static/js/787.ffbc1b66.chunk.js": "/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js",
     "static/media/support_1.svg": "/HackMerced-VIII/static/media/support_1.73560a11310297f6de5ce2e311cb1774.svg",
     "index.html": "/HackMerced-VIII/index.html",
     "static/media/arrow_right.svg": "/HackMerced-VIII/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
-    "main.6af3062c.css.map": "/HackMerced-VIII/static/css/main.6af3062c.css.map",
+    "main.7e7809ae.css.map": "/HackMerced-VIII/static/css/main.7e7809ae.css.map",
     "main.596b724f.js.map": "/HackMerced-VIII/static/js/main.596b724f.js.map",
     "787.ffbc1b66.chunk.js.map": "/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6af3062c.css",
+    "static/css/main.7e7809ae.css",
     "static/js/main.596b724f.js"
   ]
 }
