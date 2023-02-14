@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HackMerced/HackMerced-VIII/static/css/main.c2342cad.css",
-    "main.js": "/HackMerced/HackMerced-VIII/static/js/main.c47ce0db.js",
-    "static/js/787.ffbc1b66.chunk.js": "/HackMerced/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js",
-    "static/media/support_1.svg": "/HackMerced/HackMerced-VIII/static/media/support_1.73560a11310297f6de5ce2e311cb1774.svg",
-    "index.html": "/HackMerced/HackMerced-VIII/index.html",
-    "static/media/arrow_right.svg": "/HackMerced/HackMerced-VIII/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
-    "main.c2342cad.css.map": "/HackMerced/HackMerced-VIII/static/css/main.c2342cad.css.map",
-    "main.c47ce0db.js.map": "/HackMerced/HackMerced-VIII/static/js/main.c47ce0db.js.map",
-    "787.ffbc1b66.chunk.js.map": "/HackMerced/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js.map"
+    "main.css": "/HackMerced-VIII/static/css/main.c2342cad.css",
+    "main.js": "/HackMerced-VIII/static/js/main.596b724f.js",
+    "static/js/787.ffbc1b66.chunk.js": "/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js",
+    "static/media/support_1.svg": "/HackMerced-VIII/static/media/support_1.73560a11310297f6de5ce2e311cb1774.svg",
+    "index.html": "/HackMerced-VIII/index.html",
+    "static/media/arrow_right.svg": "/HackMerced-VIII/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
+    "main.c2342cad.css.map": "/HackMerced-VIII/static/css/main.c2342cad.css.map",
+    "main.596b724f.js.map": "/HackMerced-VIII/static/js/main.596b724f.js.map",
+    "787.ffbc1b66.chunk.js.map": "/HackMerced-VIII/static/js/787.ffbc1b66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2342cad.css",
-    "static/js/main.c47ce0db.js"
+    "static/js/main.596b724f.js"
   ]
 }
