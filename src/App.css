@@ -135,7 +135,7 @@
   justify-content: space-between;
   align-content: center;
   padding-bottom:3rem;
-  background: linear-gradient(107.08deg, rgba(60, 26, 69, 0.7) 2.64%, rgba(67, 25, 92, 0.7) 135.38%);
+  background: linear-gradient(107.08deg, #3C1A45, #43195C);
   /* background-color: red; */
 }
 .nav-items{
@@ -149,14 +149,15 @@
   margin-right: 3rem;
   list-style-type: none;
 }
-.button{
+.nav-button{
   background: none;
   border: none;
   font-size: 1em;
   transition-duration: 0.4s;
   color: white;
+  text-decoration: none;
 }
-.registerButton{
+.nav-registerButton{
   background-color: #FF7676;
   border: 0.12rem solid #FF7676;
   border-radius: 3rem;
@@ -168,11 +169,12 @@
   transition-duration: 0.4s;
   color: white;
 }
-.button:hover{
+.nav-button:hover{
   color:#AD0624;
   cursor: pointer;
 }
-.registerButton:hover{
+
+.nav-registerButton:hover{
   background-color: #FFFFFF;
   color:#AD0624;
   border: 0.18rem solid #AD0624;
@@ -184,31 +186,48 @@
   background-color: #B61255;
   position:relative;
   display: flex;
+
   width: 100%;
-  height: 60vh;
+  height: 80vh;
   font-size: calc(1em + 2vmin);
+  font-family: 'unbounded';
+
+  background: radial-gradient(89.01% 89.01% at 72.01% 35.06%, #D83F0E 0%, #AD066A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  background-blend-mode: overlay;
+  mix-blend-mode: normal;
 }
 .Main-text{
   position: absolute;
+  text-align: left;
   left:10rem;
   top:10rem;
 }
 .Main-title{
   color:#FFFFFF;
+  font-weight: 300;
+  font-size: 2em;
 }
 .Main-subtitle{
   color:#FFFFFF;
+  font-weight: 400;
+  font-size: 1em;
 }
-.registerButton2{
+.Main-subtitle2{
+  color:#FFFFFF;
+  font-weight: 500;
+  font-size: 0.6em;
+}
+.Main-registerButton2{
   background-color: #FFFFFF;
-  border: 0.18rem solid black;
+  border:none;
   border-radius: 100px;
+  font-family: 'unbounded';
 
   width: 15rem;
   height:2rem;
   transition-duration: .4s;
 }
-.registerButton2:hover{
+.Main-registerButton2:hover{
   background-color: #AD0624;
   border: 0.18rem solid white;
   color: #FFFFFF;
