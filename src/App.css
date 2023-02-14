@@ -135,7 +135,7 @@
   justify-content: space-between;
   align-content: center;
   padding-bottom:3rem;
-  background: linear-gradient(107.08deg, rgba(60, 26, 69, 0.7) 2.64%, rgba(67, 25, 92, 0.7) 135.38%);
+  background: linear-gradient(107.08deg, #3C1A45, #43195C);
   /* background-color: red; */
 }
 .nav-items{
@@ -191,6 +191,10 @@
   height: 80vh;
   font-size: calc(1em + 2vmin);
   font-family: 'unbounded';
+
+  background: radial-gradient(89.01% 89.01% at 72.01% 35.06%, #D83F0E 0%, #AD066A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  background-blend-mode: overlay;
+  mix-blend-mode: normal;
 }
 .Main-text{
   position: absolute;
@@ -200,13 +204,18 @@
 }
 .Main-title{
   color:#FFFFFF;
+  font-weight: 300;
+  font-size: 2em;
 }
 .Main-subtitle{
   color:#FFFFFF;
+  font-weight: 400;
+  font-size: 1em;
 }
 .Main-subtitle2{
   color:#FFFFFF;
-  font-size: .5em;
+  font-weight: 500;
+  font-size: 0.6em;
 }
 .Main-registerButton2{
   background-color: #FFFFFF;
