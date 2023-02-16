@@ -242,6 +242,15 @@ a {
   object-fit: cover;
   overflow-y: hidden;
 }
+.Main-video{
+  min-width: 100vw;
+  max-height: 100vh;
+  object-fit: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
 .Main-title{
   color:#FFFFFF;
 }
