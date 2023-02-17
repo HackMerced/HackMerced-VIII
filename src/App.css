@@ -275,10 +275,10 @@
   }
   .Main-video{
     padding-left: 0;
-    position: fixed;
+    position:sticky;
     left:0;
-    top: 0;
     z-index: 1;
+    overflow: hidden;
   }
   .Main-video:-webkit-scrollbar {
     display: none;
@@ -314,7 +314,8 @@
   }
   .Tracks-title{
     position: inherit;
-    text-align: center;
+    text-align: left;
+    left:1.5em;
   }
   .FAQ-accordion{
     position: relative;
@@ -332,6 +333,7 @@
   .FAQ{
     position: relative;
     z-index: 3;
+    text-align: left;
   }
   
 
