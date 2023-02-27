@@ -13,20 +13,26 @@ function MainPage() {
                 <h1 className="Main-title">hackmerced viii</h1>
                 <p className="Main-subtitle">march 3-5 2023 @ uc merced</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <p className="Main-subtitle2">Join us for the largest hackathon in the San Joaquin Valley.</p>
                 <button className="Main-registerButton2">REGISTER NOW</button>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 0261b74 (getting my branch up to date)
                 <p className="Main-sub2">Join us for the largest hackathon in the San Joaquin Valley.</p>
                 <a href="https://forms.gle/pmMz4zeeEsMD3Pc1A">
                   <button className="registerButton2">REGISTER NOW</button>
                 </a>
                
+<<<<<<< HEAD
 =======
                 <p className="Main-subtitle2">Join us for the largest hackathon in the San Joaquin Valley.</p>
                 <button className="Main-registerButton2">REGISTER NOW</button>
 >>>>>>> 5e7be0a (nav scrolls, main fonts corrected and text aligned)
 >>>>>>> 1b7e49c (nav scrolls, main fonts corrected and text aligned)
+=======
+>>>>>>> 0261b74 (getting my branch up to date)
             </div>
       </div>
     );
