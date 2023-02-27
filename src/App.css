@@ -8,7 +8,7 @@
 .App {
   text-align: center;
   min-height: 100vh;
- 
+  max-width:fit-content;
 }
 
 .App-link {
@@ -177,18 +177,18 @@ a {
 }
 
 .nav-items > li{
+  min-width: 1.5rem;
   margin-right: 3rem;
   list-style-type: none;
 }
-.nav-button{
+.button{
   background: none;
   border: none;
   font-size: 1em;
   transition-duration: 0.4s;
   color: white;
-  text-decoration: none;
 }
-.nav-registerButton{
+.registerButton{
   background-color: #FF7676;
   border: 0.12rem solid #FF7676;
   border-radius: 3rem;
@@ -200,12 +200,11 @@ a {
   transition-duration: 0.4s;
   color: white;
 }
-.nav-button:hover{
+.button:hover{
   color:#AD0624;
   cursor: pointer;
 }
-
-.nav-registerButton:hover{
+.registerButton:hover{
   background-color: #FFFFFF;
   color:#AD0624;
   border: 0.18rem solid #AD0624;
@@ -220,7 +219,6 @@ a {
   mix-blend-mode: normal;
   position:relative;
   display: flex;
-
   width: 100%;
   height: 80vh;
   font-size: calc(1em + 2vmin);
@@ -246,13 +244,9 @@ a {
 }
 .Main-title{
   color:#FFFFFF;
-  font-weight: 300;
-  font-size: 2em;
 }
 .Main-subtitle{
   color:#FFFFFF;
-  font-weight: 400;
-  font-size: 1em;
 }
 .Main-subtitle2{
   color:#FFFFFF;
@@ -261,7 +255,7 @@ a {
 }
 .Main-registerButton2{
   background-color: #FFFFFF;
-  border:none;
+  border: 0.18rem solid black;
   border-radius: 100px;
   font-family: 'unbounded';
 
@@ -270,7 +264,7 @@ a {
   transition-duration: .4s;
   border: none;
 }
-.Main-registerButton2:hover{
+.registerButton2:hover{
   background-color: #AD0624;
   border: 0.18rem solid white;
   color: #FFFFFF;
