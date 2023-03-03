@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.591689a8.css",
-    "main.js": "/static/js/main.b7860e13.js",
+    "main.css": "/static/css/main.3b1dc001.css",
+    "main.js": "/static/js/main.8dfd9f69.js",
     "static/js/787.ffbc1b66.chunk.js": "/static/js/787.ffbc1b66.chunk.js",
     "static/media/landing.mp4": "/static/media/landing.e3a34599cb3f4932fa9f.mp4",
-    "static/media/support_1.svg": "/static/media/support_1.73560a11310297f6de5ce2e311cb1774.svg",
+    "static/media/sponsor logos.svg": "/static/media/sponsor logos.b042b69ffcdc958d4823e8b626895c0a.svg",
+    "static/media/ag.svg": "/static/media/ag.63b60df20946c9323fc476570af66de5.svg",
+    "static/media/instagram 1.svg": "/static/media/instagram 1.1f92701723c42664ee4b4b8190ff4acc.svg",
+    "static/media/discord 1.svg": "/static/media/discord 1.c55fef93e620ff2680587b66c2b262e8.svg",
+    "static/media/bus.svg": "/static/media/bus.ba0656c48b52645d022bd7d137d5fecf.svg",
+    "static/media/health.svg": "/static/media/health.52082d88db33c341b551985fdac44892.svg",
+    "static/media/facebook 1.svg": "/static/media/facebook 1.cbf655dd0ca041012e9421c902794b93.svg",
     "index.html": "/index.html",
+    "static/media/Vector 1.svg": "/static/media/Vector 1.dfe7bd48083770efdefca5ab71127068.svg",
     "static/media/arrow_right.svg": "/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
-    "main.591689a8.css.map": "/static/css/main.591689a8.css.map",
-    "main.b7860e13.js.map": "/static/js/main.b7860e13.js.map",
+    "main.3b1dc001.css.map": "/static/css/main.3b1dc001.css.map",
+    "main.8dfd9f69.js.map": "/static/js/main.8dfd9f69.js.map",
     "787.ffbc1b66.chunk.js.map": "/static/js/787.ffbc1b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.591689a8.css",
-    "static/js/main.b7860e13.js"
+    "static/css/main.3b1dc001.css",
+    "static/js/main.8dfd9f69.js"
   ]
 }
